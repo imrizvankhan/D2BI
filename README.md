@@ -1,4 +1,4 @@
-# Deep Ill Light Image Enhancement
+# Deep Ill Light Image Enhancement (D2BI-Net)
 
 Requirements
 Python
